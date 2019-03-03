@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Unit6Assignment</string>
+    <string name="contact_name1">Name: Owen Krueger</string>
+    <string name="contact_number1">Number: (320)-390-2152</string>
+    <string name="button_call1">Call</string>
+    <string name="button_text1">Text</string>
+    <string name="contact_name2">Name: Elliot Kazlauskas</string>
+    <string name="contact_number2">Number: (612)-600-3637</string>
+    <string name="button_call2">Call</string>
+    <string name="button_text2">Text</string>
+    <string name="contact_name3">Name: Richard Schrivener</string>
+    <string name="contact_number3">Phone: (612)-581-0579</string>
+    <string name="button_call3">Call</string>
+    <string name="button_text3">Text</string>
+
+
+</resources>

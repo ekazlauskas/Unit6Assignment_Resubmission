@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Unit7Assignment</string>
+    <string name="textWidth">Room Width</string>
+    <string name="WidthNumber">0</string>
+    <string name="textLength">Room Length</string>
+    <string name="LengthNumber">0</string>
+    <string name="buttonResults">Show Result</string>
+    <string name="textFlooringTitle">Flooring Needed:</string>
+    <string name="secondActivityTitle">Flooring needed:</string>
+    <string name="textResults">Results Here</string>
+</resources>
